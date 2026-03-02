@@ -1,0 +1,7 @@
+{
+  "name": "卡路里检测",
+  "description": "A beautiful calorie tracking app with AI food recognition to help you stay healthy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
